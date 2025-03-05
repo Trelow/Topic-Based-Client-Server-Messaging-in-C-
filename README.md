@@ -14,7 +14,6 @@ This project implements a **client-server** model that manages messages across *
 4. [Topic Subscription & Wildcards](#topic-subscription--wildcards)  
 5. [Multiplexing & Poll](#multiplexing--poll)  
 6. [How to Build & Run](#how-to-build--run)  
-7. [Conclusion](#conclusion)  
 
 ---
 
